@@ -1,0 +1,12 @@
+server:
+  port: 8090
+  context-path: /esdemo
+
+
+es:
+  url_ip: 127.0.0.1
+  url_port: 9300
+  node_cluster: cluster.name
+  node_name: xiaojinzi
+
+
